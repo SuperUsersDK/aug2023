@@ -1,3 +1,0 @@
-<HTML>
-	<BODY>HELLO</BODY>
-</HTML>
